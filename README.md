@@ -1,6 +1,6 @@
 # AntD + Next.js + tRPC + SSR = 😞
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`. It is a minimal reproduction of this bug.
+This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`. It is a minimal reproduction of this bug. Seems to be related to this: https://github.com/mantinedev/mantine/issues/2880
 
 ## Usage
 
